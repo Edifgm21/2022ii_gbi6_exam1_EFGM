@@ -1,4 +1,5 @@
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash->
+ <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/2560px-Gnu-bash-logo.svg.png" width = "200" height = "110">
+
 # Datos del curso
 
 ## GBI_BDGN01/oct2022
